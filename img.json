@@ -1,0 +1,13 @@
+{
+    "animals": [
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_960_720.jpg", "name": "Gato"},
+      {"imagemUrl": "https://hips.hearstapps.com/hmg-prod/images/cute-cat-photos-1593441022.jpg?crop=1.00xw:0.753xh;0,0.153xh&resize=1200:*", "name": "Pinguim"},
+      {"imagemUrl": "https://hips.hearstapps.com/hmg-prod/images/cute-photos-of-cats-curled-up-sleeping-1593184773.jpg?crop=0.9137115839243499xw:1xh;center,top&resize=980:*", "name": "Guaxinim"},
+      {"imagemUrl": "https://hips.hearstapps.com/hmg-prod/images/cute-photos-of-cats-excited-1593184777.jpg?crop=1xw:1xh;center,top&resize=980:*", "name": "Leão"},
+      {"imagemUrl": "https://hips.hearstapps.com/hmg-prod/images/cute-photos-of-cats-in-box-1593184776.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=980:*", "name": "Pássaro"},
+      {"imagemUrl": "https://hips.hearstapps.com/hmg-prod/images/cute-photos-of-cats-in-grass-1593184777.jpg?crop=0.6655808903365906xw:1xh;center,top&resize=980:*", "name": "Tigre"},
+      {"imagemUrl": "https://hips.hearstapps.com/hmg-prod/images/cute-photos-of-cats-in-mug-1593184777.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=980:*", "name": "Girafa"},
+      {"imagemUrl": "https://hips.hearstapps.com/hmg-prod/images/cute-photos-of-cats-in-teacup-1593184779.jpg?crop=0.6669811320754717xw:1xh;center,top&resize=980:*", "name": "Elefante"},
+      {"imagemUrl": "https://hips.hearstapps.com/hmg-prod/images/cute-photos-of-cats-kissing-1593184779.jpg?crop=0.7108081791626095xw:1xh;center,top&resize=980:*", "name": "Macaco"}
+    ]
+  }
